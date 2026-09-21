@@ -148,7 +148,7 @@ Chỉ còn $11 dự phòng: **rút BTCB đúng một lần** khỏi sàn, và **
 (DEX Screener có gói tới $499 — mua nhầm là vỡ ngân sách).
 
 Bảng phân bổ đầy đủ, so sánh độ sâu V2 vs V3, và thứ tự ưu tiên khi nâng ngân
-sách: [`docs/02-ngan-sach-200-usd.md`](docs/02-ngan-sach-200-usd.md).
+sách: [`docs/02-ngan-sach-500-usd.md`](docs/02-ngan-sach-500-usd.md).
 
 ### Nhận diện
 
@@ -166,7 +166,7 @@ làm dấu phân biệt: `BTCX_THEME=orange npm run logo`.
 |---|---|
 | [`00-su-that-can-biet-truoc.md`](docs/00-su-that-can-biet-truoc.md) | Ba sự thật quyết định toàn bộ thiết kế — đọc trước khi tiêu đồng nào |
 | [`01-kien-truc-neo-gia.md`](docs/01-kien-truc-neo-gia.md) | Cơ chế neo giá và lý do từng quyết định thiết kế |
-| [`02-ngan-sach-200-usd.md`](docs/02-ngan-sach-200-usd.md) | Gas đo thật, phân bổ $500, độ sâu thanh khoản |
+| [`02-ngan-sach-500-usd.md`](docs/02-ngan-sach-500-usd.md) | Gas đo thật, phân bổ $500, độ sâu thanh khoản |
 | [`03-ke-hoach-72-gio.md`](docs/03-ke-hoach-72-gio.md) | Lịch triển khai theo giờ, có cổng chặn |
 | [`04-logo-va-gia-tren-vi.md`](docs/04-logo-va-gia-tren-vi.md) | **DEX Screener trước, ví sau** — index tự động, gói logo $299, và hệ quả của việc bỏ CoinGecko |
 | [`05-bao-mat-va-van-hanh.md`](docs/05-bao-mat-va-van-hanh.md) | Checklist bảo mật, xử lý quyền sở hữu, giám sát, giới hạn đã biết |

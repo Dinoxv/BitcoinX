@@ -36,7 +36,7 @@ Mỗi lệnh có lý do kinh tế, có đối tác thật (pool và vault), và 
 sát giá Bitcoin hơn. Volume sinh ra là hệ quả phụ của việc sửa giá, không phải
 mục đích.
 
-Tài liệu `02-ngan-sach-200-usd.md` đã nói: ở quy mô này rất có thể bạn là
+Tài liệu `02-ngan-sach-500-usd.md` đã nói: ở quy mô này rất có thể bạn là
 arbitrageur duy nhất. Bot này là cách bạn giữ vai trò đó mà không phải ngồi canh.
 
 ---
@@ -91,7 +91,7 @@ không phụ thuộc độ sâu. Pool chỉ để các ví và bộ index có m�
 
 Muốn bot giữ neo chặt trong vòng 1% thì cần pool khoảng **$2.400 trở lên**. Đó là
 con số thật để cân nhắc khi quyết định có rót thêm vốn hay không — xem bảng ưu
-tiên trong `02-ngan-sach-200-usd.md`.
+tiên trong `02-ngan-sach-500-usd.md`.
 
 Và nói rõ một lần nữa: **bot này không phải để kiếm tiền.** Lãi mỗi vòng ở mức
 vài cent đến vài chục cent. Nó tồn tại để giá BTCx không trôi khỏi giá Bitcoin

@@ -83,7 +83,7 @@ không thể bị phá kể cả khi tái sử dụng vault với collateral kh�
 dịch ở 1:1. Phí 0,25% tạo ra một dải chết rộng 25 bps mà arbitrage không có lời —
 tức là neo giá lỏng hơn 25 lần so với cần thiết.
 
-**PancakeSwap V3 tập trung thanh khoản, không phải V2.** Xem `02-ngan-sach-200-usd.md`
+**PancakeSwap V3 tập trung thanh khoản, không phải V2.** Xem `02-ngan-sach-500-usd.md`
 để thấy con số: cùng $175, V3 trong dải ±1% cho độ sâu thực tế cao gấp hàng chục
 lần V2 trải đều từ 0 đến vô cực.
 
