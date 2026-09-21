@@ -124,8 +124,8 @@ npm run demo:local               # cửa sổ 2
 # mở web/index.html?local=1
 ```
 
-Xuất bản qua GitHub Pages: copy `deploy/github-pages.yml` vào
-`.github/workflows/`, bật Settings → Pages → Source = GitHub Actions. Thư mục
+Xuất bản qua GitHub Pages: workflow `.github/workflows/pages.yml` đã sẵn sàng
+trong repo, chỉ cần bật Settings → Pages → Source = GitHub Actions. Thư mục
 `brand/` được phục vụ cùng site nên dùng luôn làm `LOGO_BASE_URL`.
 
 ---

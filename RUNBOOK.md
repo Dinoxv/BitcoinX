@@ -24,7 +24,6 @@ Cần có:
 - [ ] Một website sống (xem mục 6). Mọi hồ sơ listing đều bắt buộc có.
 
 ```bash
-cd projects/bitcoinx-bsc
 npm ci
 npm test          # kỳ vọng: 30 passing
 npm run logo      # kỳ vọng: 8 file trong brand/, logo.png < 100000 bytes
@@ -162,8 +161,9 @@ từ đây).
 
 ## 6. Xuất bản website
 
+Workflow `.github/workflows/pages.yml` đã có sẵn trong repo, không cần copy gì.
+
 ```bash
-cp deploy/github-pages.yml ../../.github/workflows/
 git add -A && git commit -m "chore: publish BitcoinX site" && git push
 ```
 Rồi bật: repo → **Settings → Pages → Source = GitHub Actions**.
