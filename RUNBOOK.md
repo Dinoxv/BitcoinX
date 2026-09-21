@@ -25,8 +25,8 @@ Cần có:
 
 ```bash
 npm ci
-npm test          # kỳ vọng: 30 passing
-npm run logo      # kỳ vọng: 8 file trong brand/, logo.png < 100000 bytes
+npm test          # kỳ vọng: 54 passing
+npm run logo      # kỳ vọng: 12 file trong brand/, logo.png < 100000 bytes
 cp .env.example .env
 ```
 

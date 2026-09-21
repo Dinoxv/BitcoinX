@@ -184,6 +184,6 @@ của các nơi xét duyệt listing, vừa là điều đúng đắn cần làm
 Chuỗi neo là `BTCx ──1:1 (vault)──► BTCB ──1:1 (Binance)──► BTC`. Mắt xích thứ
 hai nằm ngoài tầm kiểm soát của bạn.
 
-Mã nguồn **chưa được audit**. Có 30 test phủ các bất biến chính, nhưng test
+Mã nguồn **chưa được audit**. Có 54 test phủ các bất biến chính, nhưng test
 không phải audit. Tài sản mã hoá không phải phương tiện thanh toán hợp pháp tại
 Việt Nam; hỏi luật sư trước khi mời người khác bỏ tiền vào.

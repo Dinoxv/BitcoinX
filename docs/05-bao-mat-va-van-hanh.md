@@ -75,7 +75,7 @@ và nên nói rõ trong tài liệu công khai:
 
 1. **Rủi ro BTCB.** BTCx neo vào BTCB, BTCB neo vào BTC bởi Binance. Mắt xích thứ
    hai nằm ngoài tầm kiểm soát của bạn. BTCB mất neo thì BTCx mất neo theo.
-2. **Chưa audit.** Repo có 30 test bao phủ các bất biến chính, nhưng test không
+2. **Chưa audit.** Repo có 54 test bao phủ các bất biến chính, nhưng test không
    phải audit. Đừng nói "đã kiểm toán".
 3. **Thanh khoản mỏng.** Ở mức $175, một cú swap vài trăm đô sẽ quét hết dải.
    Neo thật nằm ở vault, không ở pool — nói rõ điều này với người dùng.
